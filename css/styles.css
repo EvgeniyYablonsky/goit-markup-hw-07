@@ -757,7 +757,7 @@ img {
     width: calc (100%/3-30px);
     justify-content: center;
 }
-.card-set {
+.portfolio-cards {
     font-family: Roboto;
     font-size: 18px;
     line-height: 2;
