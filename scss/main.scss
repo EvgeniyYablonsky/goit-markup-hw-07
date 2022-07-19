@@ -29,12 +29,24 @@ ul {
     padding-left: 15px;
     padding-right: 15px;
 }
+.conteiner {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
 
 .section {
     padding-top: 94px;
     padding-bottom: 94px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
 }
-
 .section-about {
     padding-top: 94px;
 }
@@ -322,7 +334,7 @@ ul {
 }
 
 .about-work {
-    flex-basis: calc(100%/3-30px);
+    flex-basis: calc(100% / 3 - 30px);
     padding-left: 0 auto;
     margin-right: 30px;
     display: flex;
